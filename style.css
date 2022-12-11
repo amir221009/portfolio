@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+   
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+.link-header{
+border: 3px solid #E266B7;
+    padding:10px ;
+        background-color:#FF8740;
+    color: aliceblue;
+    border-radius: 20px;
+      margin: 30px;
+}
+.link-nav{
+border: 3px solid #E266B7;
+    padding:10px ;
+        background-color: #FF8740;
+    color: aliceblue;
+    border-radius: 20px;
+    margin: 30px;
+}
+header{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(10,214,136,1) 0%, rgba(0,212,255,1) 100%);
+padding: 30px;
+    border-radius: 30px
+}
+    p{
+      font-size: 25px  
+    }
+.social{
+ margin: 20px;
+}
+
+footer {
+    background-color: darkblue;
+    color:aliceblue;
+    height: 300px;
+}
+div {
+padding: 50px;
+    text-align: center}
+hr {
+    width: 100%;
+    height: 1px;
+    background-color: aliceblue;
+}
+
+
